@@ -1,0 +1,30 @@
+.form-control {
+    background-color: rgb(245, 200, 241);
+    color: blue
+}
+
+label {
+    color: rgb(68, 10, 161);
+}
+
+.btn-primary {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color: rgb(197, 37, 184)
+}
+
+.btn-primary:hover {
+    background-color: rgb(135, 54, 228);
+    color: white;
+}
+
+.card-body {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    width: 600px;
+}
+
+.cic {
+    background-color: aqua;
+}

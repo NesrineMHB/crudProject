@@ -1,0 +1,24 @@
+body,
+.container {
+    background-color: #e27dc4;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.container-fluid {
+    background-image: url("./background-1462755_960_720.jpg");
+    margin: 0;
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-item :hover {
+    background: #e27dc4;
+    color: #fff;
+}
